@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "documents": [
+    {
+      "path": "laws/administrative_code.json",
+      "sha256": "a22d02d7dcc6d09d79c785161da6b1121761bacc8a57ae99d88b6d4408f875ef"
+    },
+    {
+      "path": "laws/constitution.json",
+      "sha256": "1a30c47f1f98559e2301e61f9510446757c16e0c5e04f36e40097cafd2972da2"
+    },
+    {
+      "path": "laws/criminal_procedure_code.json",
+      "sha256": "fac5513ceda0b9576b6d1eed72b837ca149e3f5338ac6bbf0e225875be17b274"
+    },
+    {
+      "path": "laws/government_fcl.json",
+      "sha256": "7f5b5bb34f690a96a0d2c77e0bb799e174181fb11bceb6dce452c491c7b9e990"
+    },
+    {
+      "path": "laws/healthcare_basics_law.json",
+      "sha256": "495fc5888ec3021502cae566374cb7b321d23cccad792e53cd3dcd70d57970d0"
+    },
+    {
+      "path": "laws/labor_code.json",
+      "sha256": "8344985764810c6b16611eeb169ef7cba737249399606e6a2ecb463cc99b9c04"
+    },
+    {
+      "path": "laws/o_gosudarstvennoy_sobstvennosti.json",
+      "sha256": "b7767f541dcec112626343494ccbd3f355eea55fe60be5cde07232a626fcaab5"
+    },
+    {
+      "path": "laws/o_vooruzhennyh_silah_regionalnoy_federatsii.json",
+      "sha256": "a03819db57189c568dca20aba55d788f3d16243cf5d349b124eaad9b496bdd90"
+    },
+    {
+      "path": "laws/penal_code.json",
+      "sha256": "72b8aef11dee6a024b5b5cf0435630a3882a79e3710df4170c258f6063831acf"
+    },
+    {
+      "path": "laws/prosecutors_law.json",
+      "sha256": "35dc717b66473fab10fe2511fe23793730e3fe33c00edd2f14abbea8e415bf98"
+    },
+    {
+      "path": "laws/public_service_law.json",
+      "sha256": "63592e3aae56b4559af7cb09d8b902ac46e8813acd1438525e727b69ca720391"
+    },
+    {
+      "path": "laws/special_legal_regimes_fcl.json",
+      "sha256": "3714bc5919e3f1e31c72a0c1499e85eb4c0e73f6985e8315c56516331204d60b"
+    },
+    {
+      "path": "laws/traffic_rules.json",
+      "sha256": "d6565fdfc678b3d1e715774c50f46d5f49686a37b36de44e39a23edb662e11ae"
+    },
+    {
+      "path": "rules/admin_rules.json",
+      "sha256": "0e9b14755d17c9b41717468846fbc3fcb14f92000e72ef9ec08704029e3a37a9"
+    },
+    {
+      "path": "rules/airdrop_rules.json",
+      "sha256": "070ad55b5037e37509a6d98159f7d1d24808a812e8c858e581399638f10a2871"
+    },
+    {
+      "path": "rules/family_rules.json",
+      "sha256": "f87982adc36ff967f36fefe0ea2bb5d77ac6a4bb952b07376e85c0512d16d49a"
+    },
+    {
+      "path": "rules/general_rules.json",
+      "sha256": "b4aed80a58b3539b57804256454bdfb9a78d5185e56194af2b9b4762e3abca1b"
+    },
+    {
+      "path": "rules/justice_rules.json",
+      "sha256": "8db291cfd469523bea5d58a82c9120f7d38c58ab3cc2579d54f871f69dc9913f"
+    },
+    {
+      "path": "rules/leader_rules.json",
+      "sha256": "916b9edbef083b92c913fb83e7d2d7adfaf7c5f2683d7ad00a1da5332e54c5a7"
+    },
+    {
+      "path": "rules/military_base_rules.json",
+      "sha256": "0748dd9401322f8dee024f52c77a6e3d13c02e6eca401b2755368f5bf15baed3"
+    },
+    {
+      "path": "rules/property_rules.json",
+      "sha256": "3dab85f380dca34792eecef2f7666e04c0a80da6f93068c84a2d4c2aba6b3f84"
+    },
+    {
+      "path": "rules/robbery_rules.json",
+      "sha256": "77d20ec75ac7f277ff2c6fa6d3f1e4403ec6e79c1c6d1223f1ab5fe8101585e9"
+    },
+    {
+      "path": "rules/state_rules.json",
+      "sha256": "127f1ea088f812624b07ac9ebebe0e697829f5f8d9e11e202679c8a542b78811"
+    },
+    {
+      "path": "rules/supply_rules.json",
+      "sha256": "742b3d4ca56b5e958ad0f5a134a49d8ba3f658d24f914265ffcfc104330cbe89"
+    }
+  ]
+}
